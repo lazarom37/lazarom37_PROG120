@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.exe
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.deps.json
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.dll
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\bin\Debug\netcoreapp3.1\PROG120_Fruits.pdb
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.dll
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.pdb
+C:\Users\Marcus\source\repos\PROG120_Fruits\PROG120_Fruits\obj\Debug\netcoreapp3.1\PROG120_Fruits.genruntimeconfig.cache
