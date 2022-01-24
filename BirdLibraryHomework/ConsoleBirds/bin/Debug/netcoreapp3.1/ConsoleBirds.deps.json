@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleBirds/1.0.0": {
+        "dependencies": {
+          "BirdLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleBirds.dll": {}
+        }
+      },
+      "BirdLibrary/1.0.0": {
+        "runtime": {
+          "BirdLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleBirds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BirdLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

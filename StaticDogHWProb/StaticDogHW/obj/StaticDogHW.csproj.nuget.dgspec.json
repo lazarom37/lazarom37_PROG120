@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcus\\Downloads\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj": {}
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcus\\Downloads\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj": {
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcus\\Downloads\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj",
+        "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj",
         "projectName": "StaticDogHW",
-        "projectPath": "C:\\Users\\Marcus\\Downloads\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj",
+        "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\StaticDogHWProb\\StaticDogHW\\StaticDogHW.csproj",
         "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcus\\Downloads\\StaticDogHWProb\\StaticDogHW\\obj\\",
+        "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\StaticDogHWProb\\StaticDogHW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

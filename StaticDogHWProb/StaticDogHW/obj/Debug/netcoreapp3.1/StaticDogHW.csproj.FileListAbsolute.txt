@@ -12,3 +12,17 @@ C:\Users\Marcus\Downloads\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\St
 C:\Users\Marcus\Downloads\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.dll
 C:\Users\Marcus\Downloads\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.pdb
 C:\Users\Marcus\Downloads\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.genruntimeconfig.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.deps.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.runtimeconfig.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.runtimeconfig.dev.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\bin\Debug\netcoreapp3.1\StaticDogHW.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.AssemblyInfoInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.AssemblyInfo.cs
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG120\StaticDogHWProb\StaticDogHW\obj\Debug\netcoreapp3.1\StaticDogHW.genruntimeconfig.cache

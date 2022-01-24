@@ -25,23 +25,29 @@ namespace StaticDogHW
     //========================================================
     class Dog
     {
-        public float Weight;
-        public float Height;
-        public string Name;
+        private float _Weight;
+        private float _Height;
+        private string _Name;
+        public float Weight
+        {
+            get { return _Weight; }
+            set { _Weight = value; }
+        }
+        public float Height
+        {
+            get { return _Height; }
+            set { _Height = value; }
+        }
+        public string Name
+        {
+            get { return _Name; }
+            set { _Name = value; }
+        }
         public Dog (float pWeight, float pHeight, string pName)
         {
             Weight = pWeight;
             Height = pHeight;
             Name = pName;
-        }
-
-        public float getWeight()
-        {
-            return Weight;
-        }
-        public float getHeight()
-        {
-            return Height;
         }
     }
     //========================================================
@@ -49,7 +55,7 @@ namespace StaticDogHW
     {
         public static bool IsHealthy(Dog pDog)
         {
-            if ((pDog.getWeight() / pDog.getHeight()) > 2)
+            if ((pDog.Weight / pDog.Height) > 2)
             {
                 return false;
             } else
