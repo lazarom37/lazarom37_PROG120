@@ -1,0 +1,39 @@
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog120-Spring2021\04-C-exceptions\ExceptionsHomework\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall2021\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog120-Winter2022\04-C-exceptions\ExceptionsHomework\New folder\CarsExceptionsCoreSol\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\Marcus\Downloads\CarsExceptionsCoreSol\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb

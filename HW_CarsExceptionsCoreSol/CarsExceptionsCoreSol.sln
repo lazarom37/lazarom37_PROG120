@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsExceptionsCore", "CarsExceptionsCore\CarsExceptionsCore.csproj", "{1F263269-F071-4206-9635-928B02F220A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{76084ABE-C200-4C7A-84C9-1DD51BFB8E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F263269-F071-4206-9635-928B02F220A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F263269-F071-4206-9635-928B02F220A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F263269-F071-4206-9635-928B02F220A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F263269-F071-4206-9635-928B02F220A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76084ABE-C200-4C7A-84C9-1DD51BFB8E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76084ABE-C200-4C7A-84C9-1DD51BFB8E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76084ABE-C200-4C7A-84C9-1DD51BFB8E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76084ABE-C200-4C7A-84C9-1DD51BFB8E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4139BE7D-86AB-4A5A-B117-D42D526047AA}
+	EndGlobalSection
+EndGlobal
