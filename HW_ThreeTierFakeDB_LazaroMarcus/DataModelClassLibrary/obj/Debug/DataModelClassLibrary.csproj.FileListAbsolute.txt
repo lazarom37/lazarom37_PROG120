@@ -1,0 +1,24 @@
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Downloads\ThreeTier\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAD-Prog120-Spring2019\05-3 tier-MVC\ThreeTierHW\ThreeTierHW\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog120-Fall-2020\05-3 tier-MVC\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.dll
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\obj\Debug\DataModelClassLibrary.pdb
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.dll
+C:\Users\Marcus\Downloads\HW5\ThreeTierFakeDB\DataModelClassLibrary\bin\Debug\DataModelClassLibrary.pdb
