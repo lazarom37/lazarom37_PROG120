@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj": {}
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj": {
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
-        "projectName": "BirdLibrary",
-        "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj",
+        "projectName": "HW6",
+        "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj",
         "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",

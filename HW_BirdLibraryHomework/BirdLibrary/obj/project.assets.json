@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcus\\Downloads\\BirdLibraryHomework\\BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
       "projectName": "BirdLibrary",
-      "projectPath": "C:\\Users\\Marcus\\Downloads\\BirdLibraryHomework\\BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
+      "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj",
       "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcus\\Downloads\\BirdLibraryHomework\\BirdLibraryHomework\\BirdLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",

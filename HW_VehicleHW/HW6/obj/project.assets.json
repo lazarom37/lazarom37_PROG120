@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "BirdLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/BirdLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BirdLibrary.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "BirdLibrary/1.0.0": {
-      "type": "project",
-      "path": "../BirdLibrary/BirdLibrary.csproj",
-      "msbuildProject": "../BirdLibrary/BirdLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "BirdLibrary >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Marcus\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\ConsoleBirds\\ConsoleBirds.csproj",
-      "projectName": "ConsoleBirds",
-      "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\ConsoleBirds\\ConsoleBirds.csproj",
+      "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj",
+      "projectName": "HW6",
+      "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\HW6.csproj",
       "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\ConsoleBirds\\obj\\",
+      "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_VehicleHW\\HW6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj": {
-              "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_PROG120\\HW_BirdLibraryHomework\\BirdLibrary\\BirdLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
