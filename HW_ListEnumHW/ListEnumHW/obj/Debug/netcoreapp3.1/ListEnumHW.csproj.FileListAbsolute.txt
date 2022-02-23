@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.exe
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.deps.json
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.runtimeconfig.json
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.dll
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\bin\Debug\netcoreapp3.1\ListEnumHW.pdb
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.dll
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.pdb
+C:\Users\Marcus\source\repos\ListEnumHW\ListEnumHW\obj\Debug\netcoreapp3.1\ListEnumHW.genruntimeconfig.cache
