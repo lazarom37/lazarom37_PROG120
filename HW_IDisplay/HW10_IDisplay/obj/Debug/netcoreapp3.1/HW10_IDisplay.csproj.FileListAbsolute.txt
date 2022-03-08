@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.exe
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.deps.json
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.runtimeconfig.json
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.dll
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\bin\Debug\netcoreapp3.1\HW10_IDisplay.pdb
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.dll
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.pdb
+C:\Users\Marcus\source\repos\HW10_IDisplay\HW10_IDisplay\obj\Debug\netcoreapp3.1\HW10_IDisplay.genruntimeconfig.cache
